@@ -1,0 +1,17 @@
+TENSORS BASIC ***********************
+
+import numpy as np    //numpy integration
+
+a = np.array(4)       //empty array
+a
+a.ndim               //no of dimension
+O/P - 0
+
+1D TENSORS***************************
+
+arr = np.array([1,2,3,4])
+
+arr 
+array = ([1,2,3,4])
+arr.ndim
+O/P - 1
