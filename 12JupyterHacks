@@ -1,0 +1,6 @@
+How to upload a data ----
+1) Download data from kaggle in zip file
+2) upload it into the folder created for your project
+3) Code : import pandas as pd
+          pd.read_csv('filename.csv')   //This will print the dataset uploaded
+4) If you want to store this data in a variable then - df = pd.read_csv('filename.csv') : df is data frame
