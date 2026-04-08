@@ -1,1 +1,9 @@
 working with json and sql files
+
+FOR SQL FILES -------
+1) Open XAMPP, and start apache and mysql
+2) Download your sql dataset
+3) Open Url - localhost/phpmyadmin/
+4) Create new dataset and import your downloaded dataset
+5) Then install mysql.connector on jupyter notebook
+6) then follow the code given
